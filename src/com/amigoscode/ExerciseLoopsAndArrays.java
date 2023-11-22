@@ -1,6 +1,6 @@
 package com.amigoscode;
 
-public class Exercise_LoopsAndArrays {
+public class ExerciseLoopsAndArrays {
     public static void main(String[] args){
         /*//Exercise 1:Make sure when the following code runs it only prints I love cats. Don't delete the any code.
         //Solnt 1:

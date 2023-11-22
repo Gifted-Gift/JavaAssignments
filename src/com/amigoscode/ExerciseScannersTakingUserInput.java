@@ -1,9 +1,6 @@
 package com.amigoscode;
 
-import java.util.Random;
-import java.util.Scanner;
-
-public class Exercise_Scanners_Taking_User_Input {
+public class ExerciseScannersTakingUserInput {
     public static void main(String[] args){
 
         /*//Exe 1:Take an input string from the user (from the terminal) and print it back out all in upper case

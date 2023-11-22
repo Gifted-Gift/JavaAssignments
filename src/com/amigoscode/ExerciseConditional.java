@@ -1,6 +1,6 @@
 package com.amigoscode;
 
-public class Exercise_Conditional {
+public class ExerciseConditional {
     public static void main (String[] args){
         /*//Examples:
         boolean numberCheck = 5 >= 4;

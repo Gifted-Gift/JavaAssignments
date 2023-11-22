@@ -1,6 +1,6 @@
 package com.amigoscode;
 
-public class Exercise_ArraysConditionalsAndMethods {
+public class ExerciseArraysConditionalsAndMethods {
     public static void main (String[] args){
 
     }
