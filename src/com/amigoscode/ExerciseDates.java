@@ -1,11 +1,6 @@
 package com.amigoscode;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.Period;
-import java.time.format.DateTimeFormatter;
-
-public class Exercise_Dates {
+public class ExerciseDates {
     public static void main(String[] args){
         /*//Exe 1:Print today's Date and Time using LocalDate and LocalDateTime
         //Solnt 1:
